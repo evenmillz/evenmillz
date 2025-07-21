@@ -2,7 +2,7 @@
 
 ## Builder. Developer. Systems Thinker.
 
-**I build systems—mental, digital, and spiritual.** Not just code, but architectures that remember, evolve, and serve with purpose.
+**I build systems that are mental, digital, and spiritual.** Not just code, but architectures that remember, evolve, and serve with purpose.
 
 I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack—it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
 
