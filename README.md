@@ -116,7 +116,7 @@ I'm looking for **alignment**. With people, teams, and missions that move the wo
 
 If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself—let's connect.
 
-📧 **Contact**: [evenmillz@icloud.com](mailto:evenmillz@icloud.com)  
+📧 **Contact**: [even.richardson.ai@gmail.com](mailto:even.richardson.ai@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/even-richardson](https://www.linkedin.com/in/wiseinvestment/)  
 🌐 **Systems**: [Explore my work](https://erichardson.link)
 
