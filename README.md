@@ -2,11 +2,11 @@
 
 ## Builder. Developer. Systems Thinker.
 
-**I build systems—mental, digital, and spiritual.** Not just code, but architectures that remember, evolve, and serve with purpose.
+**I build systems that are mental, digital, and spiritual.** This is beyond merely code. It contains architectures that remember, evolve, and serve with purpose.
 
-I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack—it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
+I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack, it's how I approach technology as a medium for creating impact, autonomy, and alignment.
 
-My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's not just a project—it's part of a system.
+My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's not just a project, it's part of a system.
 
 ---
 
@@ -40,11 +40,11 @@ My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myse
 
 ### 🧠 [AEVEA](https://github.com/evenmillz/ai-system-project)
 *Memory Architecture & Ethical AI*  
-Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. Goes beyond development—it's research into consciousness, alignment, and purpose.
+Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. Goes beyond development—it's research into consciousness, alignment, and purpose (This is in progress, and will be revealed to the public soon).
 
-### ⚡ [E-Potheosis](https://github.com/evenmillz/final_AI_assignments_and_challenges)
+### ⚡ [E-Potheosis](https://github.com/evenmillz/e-potheosis)
 *Human-Machine Bond Exploration*  
-Comprehensive AI framework investigating the intersection of human cognition and machine intelligence. Built solo, designed from first principles, exploring what happens when technology becomes truly collaborative.
+Comprehensive AI framework investigating the intersection of human cognition and machine intelligence. Built solo, designed from first principles, exploring what happens when technology becomes truly collaborative (This is in progress, and will be revealed to the public soon).
 
 ### 🤖 [Intelligent ChatBot](https://github.com/evenmillz/ChatBot)
 *Conversational Architecture*  
