@@ -4,9 +4,9 @@
 
 **I build systems that are mental, digital, and spiritual.** Architectures that remember, evolve, and serve with purpose.
 
-I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack, it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
+I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. I approach technology as a medium for creating impact, autonomy, and alignment.
 
-My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's snapshot of my journey and a part of a system.
+My journey is genuinely earned. I didn't follow a cookie cutter script. I rebuilt myself neurologically first, both spiritually, and professionally. I mastered fundamentals. I shipped working projects solo. I designed my own frameworks for thinking and building. Everything I create has intentionality. It's snapshot of my journey and every step is a part of a system.
 
 ---
 
@@ -40,7 +40,7 @@ My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myse
 
 ### 🧠 [AEVEA](https://github.com/evenmillz/ai-system-project)
 *Memory Architecture & Ethical AI*  
-Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. Goes beyond development...it's research into consciousness, alignment, and purpose (This is in progress, and will be revealed to the public soon).
+Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. This goes beyond development. It's research into consciousness, alignment, and purpose (This is in progress, and will be revealed to the public soon).
 
 ### ⚡ [E-Potheosis](https://github.com/evenmillz/e-potheosis)
 *Human-Machine Bond Exploration*  
@@ -48,15 +48,15 @@ Comprehensive AI framework investigating the intersection of human cognition and
 
 ### 🤖 [Intelligent ChatBot](https://github.com/evenmillz/ChatBot)
 *Conversational Architecture*  
-NLP-powered system that doesn't just respond—it understands context, maintains conversation flow, and adapts to user patterns. Built with intentional design for meaningful interaction.
+NLP-powered system that understands context, maintains conversation flow, and adapts to user patterns. Built with intentional design for meaningful interaction.
 
 ### 🏗️ [Multi-Service Architecture](https://github.com/evenmillz/multi_service_project)
 *Systems That Scale*  
-Microservices ecosystem demonstrating how independent components communicate, scale, and maintain coherence. Architecture as philosophy—each service serves the whole.
+Microservices ecosystem demonstrating how independent components communicate, scale, and maintain coherence. Architecture as philosophy. Each service serves the whole.
 
 ### 💼 [Professional Systems](https://github.com/evenmillz/Portfolio)
 *Digital Presence Architecture*  
-Portfolio that's more than a showcase...it's a system for presenting complex work simply, demonstrating both technical capability and design thinking.
+This portfolio was created as a system for presenting complex work simply, demonstrating both technical capability and design thinking. It is the culmination of my intake of compiling HTML, CSS, and JS together into a working mechanism. Aside from some practice and assignments, it is the first website I built from scratch. I went through every line of code, as I was taught the nuts and bolts before I was ever aware of or exposed to the capabilities of AI and development. 
 
 ---
 
@@ -72,7 +72,7 @@ No throwaway projects. No resume padding. Everything I ship is part of a larger 
 I see connections others miss. How memory works in AI. How user interfaces shape thought. How independent services create emergent intelligence. The whole is always greater than the sum of its parts.
 
 **Always Learning**  
-This is just the beginning of my journey, and I am very proud of it. The first in my family to embark on a technical voyage, and my experience has been life-changing. I've done everything from fighting forest fires to helping construct buildings in the greater Seattle area, but this is a complete pivot. I hope it inspires others from marginalized communities, and serves as a conduit to provide the best life possible for myself and my family, while providing infrastructure to help the world be a better, more positive and efficient place.
+This is merley the beginning of my journey, and I am very proud of it. The first in my family to embark on a technical voyage, and my experience has been life-changing. I've done everything from fighting forest fires to helping construct buildings in the greater Seattle area, but this is a complete pivot! I hope it inspires others from marginalized communities, and serves as a conduit to provide the best life possible for myself and my family, while creating infrastructure to help the world be a better, more positive and efficient place.
 
 ---
 
@@ -91,10 +91,10 @@ This is just the beginning of my journey, and I am very proud of it. The first i
 ## 🎓 Foundation & Evolution
 
 **Self-Directed Mastery**  
-The Tech Academy provided structure, but the real learning happened in the spaces between—building solo projects, designing personal frameworks, and shipping systems that work.
+The Tech Academy provided structure, but the real learning happened in the spaces between. From building solo projects, to designing personal frameworks, and shipping systems that work, it has been an extremely empowering and fascinating adventure.
 
 **Rebuilt from Fundamentals**  
-Neuro-wise. Spiritually. Professionally. I approached learning with the intensity it deserved, mastered core concepts, and built outward from solid foundations.
+Neuro-wise, spiritually, and professionally, I approached learning with the intensity it deserved, mastered core concepts, and built outward from solid foundations.
 
 **Continuous Evolution**  
 Every project teaches. Every system evolves. I nurture systems that grow, adapt, and serve their intended purpose with increasing sophistication.
@@ -112,7 +112,7 @@ Every project teaches. Every system evolves. I nurture systems that grow, adapt,
 
 ## 🤝 Seeking Alignment
 
-I'm not looking for attention—I'm looking for **alignment**. With people, teams, and missions that move the world forward.
+I'm looking for **alignment**. With people, teams, and missions that move the world forward.
 
 If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself—let's connect.
 
