@@ -63,7 +63,7 @@ Portfolio that's more than a showcase—it's a system for presenting complex wor
 ## 🧭 Philosophy & Approach
 
 **Technology as Medium, Not Tool**  
-I don't just write code—I architect experiences. Every system I build serves a larger purpose: creating autonomy, enabling alignment, and amplifying human potential.
+Every system I build serves a larger purpose: creating autonomy, enabling alignment, and amplifying human potential.
 
 **Intentional Development**  
 No throwaway projects. No resume padding. Everything I ship is part of a larger system of thinking and building. Each repository represents deliberate exploration of what technology can become when built with purpose.
@@ -71,6 +71,8 @@ No throwaway projects. No resume padding. Everything I ship is part of a larger 
 **Systems Thinking**  
 I see connections others miss. How memory works in AI. How user interfaces shape thought. How independent services create emergent intelligence. The whole is always greater than the sum of its parts.
 
+**Always Learning**
+This is just the beginning of my journey, and I am very proud of it. the first in my family to embark on a technical voyage, and my experience has been life-changing. I've done everything from fighting forest fires to helping construct buildings in the greater Seattle area, but this is a complete pivot. I hope it inspires others from margainalized communities, and serves as a conduit to provide the best life possible for myself and my family, while providing infrastructure to help the world be a better, more positive and efficient place.
 ---
 
 ## 📈 Impact Metrics
@@ -109,9 +111,9 @@ Every project teaches. Every system evolves. I don't just maintain code—I nurt
 
 ## 🤝 Seeking Alignment
 
-I'm not looking for attention—I'm looking for **alignment**. With people, teams, and missions that move the world forward.
+I'm not looking for attention. I'm looking for **alignment**. With people, teams, and missions that move the world forward.
 
-If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself—let's connect.
+If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself...let's connect.
 
 📧 **Contact**: [evenmillz@icloud.com](mailto:evenmillz@icloud.com)  
 💼 **LinkedIn**: [[linkedin.com/in/even-richardson](https://www.linkedin.com/in/wiseinvestment/)](https://linkedin.com/in/even-richardson)  
