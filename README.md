@@ -2,11 +2,11 @@
 
 ## Builder. Developer. Systems Thinker.
 
-**I build systems that are mental, digital, and spiritual.** Not just code, but architectures that remember, evolve, and serve with purpose.
+**I build systems that are mental, digital, and spiritual.** Architectures that remember, evolve, and serve with purpose.
 
-I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack—it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
+I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack, it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
 
-My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's not just a project—it's part of a system.
+My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's snapshot of my journey and a part of a system.
 
 ---
 
@@ -40,7 +40,7 @@ My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myse
 
 ### 🧠 [AEVEA](https://github.com/evenmillz/ai-system-project)
 *Memory Architecture & Ethical AI*  
-Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. Goes beyond development—it's research into consciousness, alignment, and purpose (This is in progress, and will be revealed to the public soon).
+Advanced AI system exploring autonomous decision-making, memory architecture, and the ethical frameworks that guide intelligent systems. Goes beyond development...it's research into consciousness, alignment, and purpose (This is in progress, and will be revealed to the public soon).
 
 ### ⚡ [E-Potheosis](https://github.com/evenmillz/e-potheosis)
 *Human-Machine Bond Exploration*  
@@ -56,7 +56,7 @@ Microservices ecosystem demonstrating how independent components communicate, sc
 
 ### 💼 [Professional Systems](https://github.com/evenmillz/Portfolio)
 *Digital Presence Architecture*  
-Portfolio that's more than a showcase—it's a system for presenting complex work simply, demonstrating both technical capability and design thinking.
+Portfolio that's more than a showcase...it's a system for presenting complex work simply, demonstrating both technical capability and design thinking.
 
 ---
 
@@ -97,7 +97,7 @@ The Tech Academy provided structure, but the real learning happened in the space
 Neuro-wise. Spiritually. Professionally. I approached learning with the intensity it deserved, mastered core concepts, and built outward from solid foundations.
 
 **Continuous Evolution**  
-Every project teaches. Every system evolves. I don't just maintain code—I nurture systems that grow, adapt, and serve their intended purpose with increasing sophistication.
+Every project teaches. Every system evolves. I nurture systems that grow, adapt, and serve their intended purpose with increasing sophistication.
 
 ---
 
@@ -106,7 +106,7 @@ Every project teaches. Every system evolves. I don't just maintain code—I nurt
 - 🔭 **Building** autonomous systems that serve with purpose
 - 🧠 **Exploring** memory architecture and ethical AI frameworks  
 - 🌱 **Researching** the intersection of human cognition and machine intelligence
-- 💡 **Designing** systems that create impact, not just functionality
+- 💡 **Designing** systems that create impact, and functionality
 
 ---
 
