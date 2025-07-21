@@ -2,11 +2,11 @@
 
 ## Builder. Developer. Systems Thinker.
 
-**I build systems that are mental, digital, and spiritual.** This is beyond merely code. It contains architectures that remember, evolve, and serve with purpose.
+**I build systems—mental, digital, and spiritual.** Not just code, but architectures that remember, evolve, and serve with purpose.
 
-I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack, it's how I approach technology as a medium for creating impact, autonomy, and alignment.
+I'm a full-stack developer with a sharp focus on artificial intelligence, natural language processing, and the architecture of intelligent systems. What sets me apart isn't just my technical stack—it's how I approach technology: not as a tool, but as a medium for creating impact, autonomy, and alignment.
 
-My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's not just a project, it's part of a system.
+My journey is raw and earned. I didn't follow a sanitized script. I rebuilt myself—neuro-wise, spiritually, and professionally. Mastered fundamentals. Shipped working projects solo. Designed my own frameworks for thinking and building. Everything I create has intentionality. It's not just a project—it's part of a system.
 
 ---
 
@@ -71,8 +71,9 @@ No throwaway projects. No resume padding. Everything I ship is part of a larger 
 **Systems Thinking**  
 I see connections others miss. How memory works in AI. How user interfaces shape thought. How independent services create emergent intelligence. The whole is always greater than the sum of its parts.
 
-**Always Learning**
-This is just the beginning of my journey, and I am very proud of it. the first in my family to embark on a technical voyage, and my experience has been life-changing. I've done everything from fighting forest fires to helping construct buildings in the greater Seattle area, but this is a complete pivot. I hope it inspires others from margainalized communities, and serves as a conduit to provide the best life possible for myself and my family, while providing infrastructure to help the world be a better, more positive and efficient place.
+**Always Learning**  
+This is just the beginning of my journey, and I am very proud of it. The first in my family to embark on a technical voyage, and my experience has been life-changing. I've done everything from fighting forest fires to helping construct buildings in the greater Seattle area, but this is a complete pivot. I hope it inspires others from marginalized communities, and serves as a conduit to provide the best life possible for myself and my family, while providing infrastructure to help the world be a better, more positive and efficient place.
+
 ---
 
 ## 📈 Impact Metrics
@@ -111,12 +112,12 @@ Every project teaches. Every system evolves. I don't just maintain code—I nurt
 
 ## 🤝 Seeking Alignment
 
-I'm not looking for attention. I'm looking for **alignment**. With people, teams, and missions that move the world forward.
+I'm not looking for attention—I'm looking for **alignment**. With people, teams, and missions that move the world forward.
 
-If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself...let's connect.
+If you're building something that matters, if you value intentional development over rushed delivery, if you understand that the best technology serves something greater than itself—let's connect.
 
 📧 **Contact**: [evenmillz@icloud.com](mailto:evenmillz@icloud.com)  
-💼 **LinkedIn**: [[linkedin.com/in/even-richardson](https://www.linkedin.com/in/wiseinvestment/)](https://linkedin.com/in/even-richardson)  
+💼 **LinkedIn**: [linkedin.com/in/even-richardson](https://www.linkedin.com/in/wiseinvestment/)  
 🌐 **Systems**: [Explore my work](https://erichardson.link)
 
 ---
